@@ -1,5 +1,7 @@
 # Data IO
-Recipe of techniques in extracting and inserting data between source, databases / obj storage, and code IDEs
+Recipe of techniques in extracting data from various sources.
+
+Refer to the following Google [presentation](https://docs.google.com/presentation/d/1_iO-XMZPYRSQ4gnGxAagE-RM4Oa0Se98GNlZEcbASQc/edit?usp=sharing) for greater details
 
 ------------------------------------------------------------------------
 
